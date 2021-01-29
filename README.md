@@ -3,7 +3,7 @@
 
 ### Hi there, I'm Aris Winandi 👋
 
-## I'm a Web Developer with Django specialitation
+## I'm a Web Developer, specializing in Django
 - 🔭 I’m currently working as a freelancer !
 - 🌱 I’m currently learning More deep on Django, Data Sciense , AI, javascript framework and other platform🤣
 - 👯 I’m looking to collaborate with other content creators
