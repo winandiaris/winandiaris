@@ -12,9 +12,8 @@
 
 
 ### Connect with me:
-- :mailbox_with_mail:
-- : winandiaris@gmail.com
-<!--
+- :mailbox_with_mail:: winandiaris@gmail.com
+
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://code4learn.teachable.com)
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/c/MahmoudAhmed6)
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Code4Learn)
