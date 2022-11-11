@@ -68,7 +68,7 @@ Favourite Liner - "Do not expect from others what you expect only from yourself.
   
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winandiaris&layout=compact)](https://github.com/ArisDjango/OnlineShopAntonioReborn2))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winandiaris&langs_count=8)](https://github.com/ArisDjango/OnlineShopAntonioReborn2))
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Technologies I am working on and Love to explore:
