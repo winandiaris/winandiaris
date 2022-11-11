@@ -36,10 +36,10 @@
 
 <br />
 
-# Gourav Mukhija
-[![Linkedin Badge](https://img.shields.io/badge/-gouravmukhija-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gouravmukhija/)](https://www.linkedin.com/in/gouravmukhija/)
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/1077910/gourav-makhija)](https://stackoverflow.com/users/1077910/gourav-makhija)
-[![Profile Views](https://komarev.com/ghpvc/?username=gouravmakhija18&color=green)](https://gouravmukhija.medium.com/)
+# Aris Winandi
+[![Linkedin Badge](https://img.shields.io/badge/-ariswinandi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ariswinandi/)](https://www.linkedin.com/in/ariswinandi/)
+[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/1077910/aris-winandi)](https://stackoverflow.com/users/1077910/aris-winandi)
+
 
 ## Hi 👋 I'm Aris Winandi, 
 I'm a Full Stack developer working with Publicis Sapient and passionate about modern frontend technologies and its entire ecosystem. 
