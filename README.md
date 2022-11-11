@@ -58,7 +58,7 @@ Favourite Liner - "Do not expect from others what you expect only from yourself.
       src="https://github-readme-stats.vercel.app/api?username=winandiaris&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=radical"
     />
   </a>
-   <a href="https://github.com/winandiarisa/github-readme-stats">
+   <a href="https://github.com/ArisDjango">
     <img
       height="150"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=winandiaris&layout=compact&theme=radical" />
