@@ -61,13 +61,14 @@ Favourite Liner - "Do not expect from others what you expect only from yourself.
    <a href="https://github.com/ArisDjango">
     <img
       height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=winandiaris&layout=compact&theme=radical" class="lang" />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=winandiaris&layout=compact&exclude_repo=ArisDjango/OnlineShopAntonioReborn2&theme=radical" class="lang" />
     
   </a>
   
   
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winandiaris&layout=compact)](https://github.com/ArisDjango)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winandiaris&layout=compact)](https://github.com/ArisDjango/OnlineShopAntonioReborn2))
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Technologies I am working on and Love to explore:
