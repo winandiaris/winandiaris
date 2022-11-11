@@ -64,6 +64,7 @@ Favourite Liner - "Do not expect from others what you expect only from yourself.
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=winandiaris&layout=compact&theme=radical" />
   </a>  
 </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winandiaris&layout=compact)](https://github.com/ArisDjango)
 
 ### Technologies I am working on and Love to explore:
 <code><img height="20" src="https://raw.githubusercontent.com/graphql/artwork/main/GraphQL_Foundation/icon/GraphQL_Foundation-mark.png"></code>
