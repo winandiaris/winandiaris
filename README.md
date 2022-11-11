@@ -62,7 +62,16 @@ Favourite Liner - "Do not expect from others what you expect only from yourself.
     <img
       height="150"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=winandiaris&exclude_repo=ArisDjangolayout=compact&theme=radical" />
-  </a>  
+    
+  </a>
+  </a>
+   <a href="https://github.com/ArisDjango">
+    <img
+      height="150"
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=winandiaris&theme=radical&layout=compact&custom_title=Wakatime%20Stats%20&v=3" />
+    
+  </a>
+  
 </p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winandiaris&layout=compact)](https://github.com/ArisDjango)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
