@@ -1,4 +1,6 @@
-
+<head>
+<link rel="stylesheet" href="styles.css">
+</head>
 
 
 ### Hi there, I'm Aris Winandi 👋
@@ -11,6 +13,19 @@
 - ⚡ Fun fact: I love myself
 
 
+
+<div align="center">
+  
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=winandiaris&show_icons=true&include_all_commits=true&theme=radical" class="stats" />
+  
+  <!-- GitHub Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=winandiaris&layout=compact&theme=radical" class="lang" />
+
+  <!-- Wakatime Stats (Weekly) Card -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=winandiaris&theme=radical&layout=compact&custom_title=Wakatime%20Stats%20&v=3" />
+
+</div>
 ### Connect with me:
 - :mailbox_with_mail:: winandiaris@gmail.com
 
