@@ -61,23 +61,16 @@ Favourite Liner - "Do not expect from others what you expect only from yourself.
    <a href="https://github.com/ArisDjango">
     <img
       height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=winandiaris&exclude_repo=ArisDjangolayout=compact&theme=radical" />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=winandiaris&layout=compact&theme=radical" class="lang" />
     
   </a>
-  </a>
-   <a href="https://github.com/ArisDjango">
-    <img
-      height="150"
-      src="https://github-readme-stats.vercel.app/api/wakatime?username=winandiaris&theme=radical&layout=compact&custom_title=Wakatime%20Stats%20&v=3" />
-    
-  </a>
+  
   
 </p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winandiaris&layout=compact)](https://github.com/ArisDjango)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Technologies I am working on and Love to explore:
-<code><img height="20" src="https://raw.githubusercontent.com/graphql/artwork/main/GraphQL_Foundation/icon/GraphQL_Foundation-mark.png"></code>
 <code><img height="20" src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png"></code>
 <code><img height="20" src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png"></code></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
