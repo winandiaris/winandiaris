@@ -23,20 +23,20 @@ Favourite Liner - "Do not expect from others what you expect only from yourself.
       src="https://github-readme-stats.vercel.app/api?username=winandiaris&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=radical"
     />
   </a>
-   <a href="https://github.com/ArisDjango">
+<!--    <a href="https://github.com/ArisDjango">
     <img
       height="150"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=winandiaris&repo=a_compilationRepo&theme=radical"
     />
 
     
-  </a>
+  </a> -->
 
 
   
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winandiaris&layout=compact)](https://github.com/winandiaris/a_compilationRepo)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winandiaris&layout=compact)](https://github.com/winandiaris/a_compilationRepo) -->
 
 ### Technologies I am working on and Love to explore:
 <code><img height="20" src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png"></code>
