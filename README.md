@@ -26,6 +26,8 @@ Favourite Liner - "Do not expect from others what you expect only from yourself.
    <a href="https://github.com/ArisDjango">
     <img
       height="150"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=winandiaris&repo=a_compilationRepo&theme=radical"
+    />
 
     
   </a>
