@@ -1,6 +1,6 @@
-<head>
+<!-- <head>
 <link rel="stylesheet" href="styles.css">
-</head>
+</head> -->
 
 [![Linkedin Badge](https://img.shields.io/badge/-ariswinandi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ariswinandi/)](https://www.linkedin.com/in/ariswinandi/)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/1077910/aris-winandi)](https://stackoverflow.com/users/1077910/aris-winandi)
