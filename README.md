@@ -19,7 +19,7 @@ Favourite Liner - "Do not expect from others what you expect only from yourself.
 <p align="justify">
   <a href="https://github.com/winandiaris">
     <img
-      height="150"
+      height="200"
       src="https://github-readme-stats.vercel.app/api?username=winandiaris&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=radical"
     />
   </a>
