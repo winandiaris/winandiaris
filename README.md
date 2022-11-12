@@ -26,7 +26,7 @@ Favourite Liner - "Do not expect from others what you expect only from yourself.
    <a href="https://github.com/ArisDjango">
     <img
       height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=winandiaris&repo=ArisDjango&layout=compact&theme=radical" class="lang" />
+
     
   </a>
 
@@ -34,7 +34,7 @@ Favourite Liner - "Do not expect from others what you expect only from yourself.
   
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winandiaris&layout=compact)](https://github.com/ArisDjango/OnlineShopAntonioReborn2)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winandiaris&layout=compact)](https://github.com/winandiaris/a_compilationRepo)
 
 ### Technologies I am working on and Love to explore:
 <code><img height="20" src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png"></code>
