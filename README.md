@@ -14,28 +14,6 @@
 
 
 
-<div align="center">
-  
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=winandiaris&show_icons=true&include_all_commits=true&theme=radical" class="stats" />
-  
-  <!-- GitHub Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=winandiaris&layout=compact&theme=radical" class="lang" />
-
-  <!-- Wakatime Stats (Weekly) Card -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=winandiaris&theme=radical&layout=compact&custom_title=Wakatime%20Stats%20&v=3" />
-
-</div>
-### Connect with me:
-- :mailbox_with_mail:: winandiaris@gmail.com
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://code4learn.teachable.com)
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/c/MahmoudAhmed6)
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Code4Learn)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://eg.linkedin.com/in/pythondeveloper6)
-
-<br />
-
 # Aris Winandi
 [![Linkedin Badge](https://img.shields.io/badge/-ariswinandi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ariswinandi/)](https://www.linkedin.com/in/ariswinandi/)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/1077910/aris-winandi)](https://stackoverflow.com/users/1077910/aris-winandi)
@@ -68,7 +46,7 @@ Favourite Liner - "Do not expect from others what you expect only from yourself.
   
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winandiaris&langs_count=8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winandiaris&langs_count=8)]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Technologies I am working on and Love to explore:
