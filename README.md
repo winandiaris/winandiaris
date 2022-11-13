@@ -4,7 +4,10 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-ariswinandi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ariswinandi/)](https://www.linkedin.com/in/ariswinandi/)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/1077910/aris-winandi)](https://stackoverflow.com/users/1077910/aris-winandi)
-
+<!-- Github Profile Views -->
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=winandiaris" alt="codeperfectplus" />
+</p>
 
 ## Hi 👋 I'm Aris Winandi, 
 I'm a Full Stack developer working with Publicis Sapient and passionate about modern frontend technologies and its entire ecosystem. 
@@ -35,10 +38,10 @@ Favourite Liner - "Do not expect from others what you expect only from yourself.
 
 
   
+<!-- Github contribution graph -->
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=winandiaris&theme=react-dark&hide_border=true&area=true" width="100%"/>
 </p>
-## 📈 My GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=winandiaris&show_icons=true&theme=gotham" alt="winandiaris" />
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winandiaris&layout=compact)](https://github.com/winandiaris/a_compilationRepo) -->
 
