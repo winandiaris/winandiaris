@@ -61,7 +61,7 @@ Favourite Liner - "Do not expect from others what you expect only from yourself.
 | [Release](https://github.com/codePerfectPlus/release)| Github CI action for PyPI packge release automation | soon |
  -->
  
- 
+<p align="center"> 
 ### Technologies I am working on and Love to explore:
 <code><img height="20" src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png"></code>
 <code><img height="20" src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png"></code></code>
@@ -70,6 +70,7 @@ Favourite Liner - "Do not expect from others what you expect only from yourself.
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+</p>
 
 <p align="center">Show ❤️ by starring some of the repositories!</p>
 <p align="center">Thank you for visiting my profile! 😊</p>
