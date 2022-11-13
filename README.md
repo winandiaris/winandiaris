@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-ariswinandi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ariswinandi/)](https://www.linkedin.com/in/ariswinandi/)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/1077910/aris-winandi)](https://stackoverflow.com/users/1077910/aris-winandi)
 <!-- Github Profile Views -->
-<p align="center"> 
+<p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=winandiaris" alt="codeperfectplus" />
 </p>
 
